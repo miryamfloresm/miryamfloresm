@@ -1,3 +1,4 @@
+![Header](./github-header-miryamflores.png)
 ## Hi there 👋
 
 <!--
