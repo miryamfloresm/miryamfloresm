@@ -94,15 +94,15 @@ A lo largo de mi carrera profesional, he trabajado en proyectos de marketing dig
 
 <br/>  
 
-
+<hr>
 ### Badges
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/miryamfloresm"><img src="https://github-readme-stats.vercel.app/api?username=miryamfloresm&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=444e59&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="miryamfloresm's GitHub stats" /></a>
-<br/>  
+<hr/>  
 <a href="http://www.github.com/miryamfloresm"><img src="https://github-readme-streak-stats.herokuapp.com/?user=miryamfloresm&stroke=444e59&background=ffffff&ring=64748b&fire=64748b&currStreakNum=444e59&currStreakLabel=64748b&sideNums=444e59&sideLabels=444e59&dates=444e59&hide_border=true" /></a>
- <hr><hr/>  
+<hr>
 <a href="https://github.com/miryamfloresm" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miryamfloresm&langs_count=10&title_color=64748b&text_color=444e59&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+<hr/>  
 
