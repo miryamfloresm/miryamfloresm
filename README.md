@@ -103,4 +103,6 @@ A lo largo de mi carrera profesional, he trabajado en proyectos de marketing dig
 <a href="https://github.com/miryamfloresm" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miryamfloresm&langs_count=10&title_color=64748b&text_color=444e59&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <br/>  
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=miryamfloresm&&style=flat-square" align="center" />
+</div>
