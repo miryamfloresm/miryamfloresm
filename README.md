@@ -14,21 +14,18 @@
 <a href="https://instagram.com/miryamfloresm" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
-<div align="center">
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Miryam FLORES
-=====================================================================================================================================
-</div>  
-Data Analyst
-------------
+</div> 
+
+<br/>  
+
+### <div align="center">I'm Miryam FLORES, I am a Data Analyst, previously Web Designer. 🚀</div>  
 
 A lo largo de mi carrera profesional, he trabajado en proyectos de marketing digital, análisis de productos y diseño web. Estas experiencias me han permitido desarrollar habilidades en programación y mantenerme proactiva en el aprendizaje de nuevas tendencias y tecnologías. Recientemente, completé mis estudios como Data Analyst en TripleTen reconocido Bootcamp de tecnología.
 
 * 🌍  I'm based in Querétaro, México.
 * 🖥️  See my portfolio at [Mi Portafolio](http://www.miryamflores.com)
 * ✉️  You can contact me at [info@miryamflores.com](mailto:info@miryamflores.com)
-* ⚡  Apoyo en proyecto para organizaciones para el rescate de mascotas.
+* ⚡  I support projects for pet rescue organizations.
 
 <br/>  
 
