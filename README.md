@@ -20,7 +20,7 @@
 </div>
 
 <br/>  
-
+<hr>
 ### <div align="center">I'm Miryam FLORES, I am a Data Analyst, previously Web Designer. 🚀</div>  
 
 A lo largo de mi carrera profesional, he trabajado en proyectos de marketing digital, análisis de productos y diseño web. Estas experiencias me han permitido desarrollar habilidades en programación y mantenerme proactiva en el aprendizaje de nuevas tendencias y tecnologías. Recientemente, completé mis estudios como Data Analyst en TripleTen reconocido Bootcamp de tecnología.
@@ -31,7 +31,7 @@ A lo largo de mi carrera profesional, he trabajado en proyectos de marketing dig
 * ⚡  I support projects for pet rescue organizations.
 
 <br/>  
-
+<hr/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -95,8 +95,6 @@ A lo largo de mi carrera profesional, he trabajado en proyectos de marketing dig
 <br/>  
 
 <hr>
-### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/miryamfloresm"><img src="https://github-readme-stats.vercel.app/api?username=miryamfloresm&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=444e59&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="miryamfloresm's GitHub stats" /></a>
