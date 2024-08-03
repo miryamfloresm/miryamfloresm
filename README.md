@@ -21,6 +21,7 @@
 
 <br/>  
 <hr>
+<br/>  
 ### <div align="center">I'm Miryam FLORES, I am a Data Analyst, previously Web Designer. 🚀</div>  
 
 A lo largo de mi carrera profesional, he trabajado en proyectos de marketing digital, análisis de productos y diseño web. Estas experiencias me han permitido desarrollar habilidades en programación y mantenerme proactiva en el aprendizaje de nuevas tendencias y tecnologías. Recientemente, completé mis estudios como Data Analyst en TripleTen reconocido Bootcamp de tecnología.
